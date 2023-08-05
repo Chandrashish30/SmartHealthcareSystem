@@ -1,7 +1,7 @@
-# Project Title: IoT-Based Real-Time Body Vitals Monitoring System
+# IoT-Based Real-Time Body Vitals Monitoring System
 
 ## Description:
-Heart disease is a significant health concern in India, with over 40% of Indian males over the age of 40 at risk of dying due to heart-related issues. A significant reduction in this risk can be achieved by adopting a proper diet, but early detection through timely diagnosis can help prevent casualties. However, the busy and hectic lifestyle makes it impractical for individuals to get regularly tested for pathologies. To address this challenge, we propose an innovative solution using Internet of Things (IoT) technology to build a real-time body vitals monitoring system.
+Heart disease is a significant health concern in India, with over 40% of Indian males over the age of 40 at risk of dying due to heart-related issues. A significant reduction in this risk can be achieved by adopting a proper diet, but early detection through timely diagnosis can help prevent casualties. However, the busy lifestyle makes it impractical for individuals to get regularly tested for pathologies. To address this challenge, we propose an innovative solution using Internet of Things (IoT) technology to build a real-time body vitals monitoring system.
 
 Our project aims to develop a user-friendly and non-intrusive IoT device that can be worn by the user without hindrance, continuously monitoring essential body parameters. The system consists of a NodeMCU microcontroller board, a heartbeat sensor, and an AHT10 temperature and humidity sensor. The NodeMCU, equipped with a built-in WiFi module, enables seamless connectivity to a WiFi network, allowing us to push the collected data to the cloud.
 
