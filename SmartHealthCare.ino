@@ -1,13 +1,13 @@
 #include <ESP8266WiFi.h>
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
 #include <Adafruit_AHT10.h>
-char ssid[] = "Wifi_IoT"; // your network SSID (name)
-char pass[] = "PRP108"; // your network password
+char ssid[] = ""; // your network SSID (name)
+char pass[] = ""; // your network password
 int keyIndex = 0; // your network key Index number (needed only for WEP)
 WiFiClient client;
 Adafruit_AHT10 aht;
-unsigned long myChannelNumber = 1941984;
-const char * myWriteAPIKey = "4I38R7FCERM05M0M";
+unsigned long myChannelNumber = ; // Your Channel Number
+const char * myWriteAPIKey = "";  // Your API Key
 // Initialize our values
 int BPM = 0;
 int Temperature = 0;
